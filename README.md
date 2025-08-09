@@ -89,9 +89,3 @@ mariachi-bot/
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests for new features, bug fixes, or improvements.
-
----
-
-## 📄 License
-
-MIT License. See [LICENSE](LICENSE) for details.
