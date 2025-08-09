@@ -7,7 +7,7 @@ def get_number_of_words(text):
 
 def get_number_of_characters(text):
     """
-    Takes text from a book as a string and returns a dictionary with the count
+    Takes text from a song as a string and returns a dictionary with the count
     of each character (including symbols and spaces) in lowercase.
     """
     # Convert text to lowercase for case-insensitive counting
