@@ -17,7 +17,7 @@ def main():
     if len(sys.argv) != 2:
 
         # If not, print usage instructions and exit
-        print("Usage: python3 main.py <path_to_song>")
+        print("Incorrect Usage: Try 'python3 main.py <path_to_song>'")
 
         # Exit the program with a non-zero status to indicate an error
         sys.exit(1)
@@ -51,6 +51,11 @@ def main():
         count = char_dict["num"]
 
         print(f"{char}: {count}")
+    print()
+    print("=========== LYRICS ==============")
+    print()
+    print(text)
+    print()
     print("============= END ===============")
 
 main()
